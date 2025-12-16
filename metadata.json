@@ -1,0 +1,5 @@
+{
+  "name": "Moroccan Tax Prescription Calculator",
+  "description": "A specialized engine for calculating tax prescription periods according to Moroccan law (General Tax Code). Features rule-based logic for various tax types, exceptions for fraud, and visual timeline analysis.",
+  "requestFramePermissions": []
+}
